@@ -9,7 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quaiblmohammed/)
 
 ## About me
 
@@ -40,3 +39,7 @@ has taught me to consider how software fits into the way people work.
 | French | 🔵 🔵 🔵 🔵 ⚪ ⚪ |
 | English | 🔵 🔵 🔵 ⚪ ⚪ ⚪ |
 | Italian | 🔵 ⚪ ⚪ ⚪ ⚪ ⚪ |
+
+## Connect
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quaiblmohammed/)
