@@ -42,4 +42,6 @@ has taught me to consider how software fits into the way people work.
 
 ## Connect
 
+Have an idea for a project or want to talk about software development and applied AI? Send me a message on LinkedIn.
+
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quaiblmohammed/)
