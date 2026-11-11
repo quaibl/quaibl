@@ -18,17 +18,13 @@ with Angular and TypeScript, integrating REST APIs, and collaborating
 with backend developers. My background in IT support and networking
 has taught me to consider how software fits into the way people work.
 
-## Technical interests
+## Technical profile
 
-I'm interested in Python, applied AI, and backend development,
-especially in building tools that solve everyday problems. At 42 Paris,
-I'm strengthening my foundations in C, algorithms, and Unix.
-
-| Area | Experience and interests |
+| Area | Focus |
 | --- | --- |
-| Applied AI and backend | Python, applied AI, and backend development |
-| Web applications | Angular, TypeScript, responsive interfaces, and REST APIs |
-| Software engineering | C, algorithms, Unix, and Git |
+| Web application development | Angular, TypeScript, responsive interfaces, and REST API integration |
+| Current studies at 42 Paris | C, algorithms, Unix, and Git |
+| Technical interests | Python, backend development, and applied AI |
 | IT and project management | Technical support, networking, and project coordination |
 
 ## Languages
