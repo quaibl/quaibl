@@ -31,15 +31,6 @@ has taught me to consider how software fits into the way people work.
 | Technical interests | Python, backend development, and applied AI |
 | IT and project management | Technical support, networking, and project coordination |
 
-## Public repositories
-
-- [libft](https://github.com/quaibl/libft)
-- [piscine-42](https://github.com/quaibl/piscine-42)
-- [My-School-42-Piscine-Experience](https://github.com/quaibl/My-School-42-Piscine-Experience)
-- [quaibl](https://github.com/quaibl/quaibl) — source for this profile README
-
-[Browse all public repositories](https://github.com/quaibl?tab=repositories&type=public) · [Contribution calendar](https://github.com/users/quaibl/contributions)
-
 ## Languages
 
 | Language | Proficiency |
