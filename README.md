@@ -38,7 +38,7 @@ has taught me to consider how software fits into the way people work.
 - [My-School-42-Piscine-Experience](https://github.com/quaibl/My-School-42-Piscine-Experience)
 - [quaibl](https://github.com/quaibl/quaibl) — source for this profile README
 
-[Browse all public repositories](https://github.com/quaibl?tab=repositories&type=public) · [GitHub activity](https://github.com/quaibl?tab=overview#contributions)
+[Browse all public repositories](https://github.com/quaibl?tab=repositories&type=public) · [Contribution calendar](https://github.com/users/quaibl/contributions)
 
 ## Languages
 
